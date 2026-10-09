@@ -1,0 +1,10 @@
+transformers<5.0.0
+torch
+sentencepiece
+sacremoses
+emoji
+pandas
+sentence-transformers
+scikit-learn
+nltk
+matplotlib
